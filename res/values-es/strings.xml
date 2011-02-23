@@ -32,6 +32,5 @@
     
     <string name="not_torch_title">Linterna activa</string>
     <string name="not_torch_summary">Linterna actualmente activa</string>
-    
     <string name="widget_label">Linterna</string>
 </resources>
