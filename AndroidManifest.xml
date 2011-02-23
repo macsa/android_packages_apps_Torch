@@ -18,7 +18,7 @@
             </intent-filter>
         </activity>
 
-        <receiver android:name="TorchWidgetProvider" android:label="Antorcha" >
+        <receiver android:name="TorchWidgetProvider" android:label="Linterna" >
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
                 <action android:name="net.cactii.flash2.TORCH_STATE_CHANGED" />
